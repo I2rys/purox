@@ -1,0 +1,29 @@
+{
+  "name": "purox",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "description": "Check If an IP is a VPN from public sources.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I2rys/purox.git"
+  },
+  "keywords": [
+    "is-vpn",
+    "vpn",
+    "ip",
+    "check",
+    "checker"
+  ],
+  "author": "I2rys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/I2rys/purox/issues"
+  },
+  "homepage": "https://github.com/I2rys/purox#readme"
+}
